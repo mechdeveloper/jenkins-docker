@@ -31,3 +31,6 @@
       - runs jenkinsci/blueocean Docker image as a container in Docker
     - jenkins-docker
       - runs docker:dind Docker image In order to execute Docker commands inside Jenkins nodes
+
+## Reference
+- https://www.jenkins.io/doc/book/installing/
